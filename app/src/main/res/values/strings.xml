@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">CompInfo</string>
+    <string name="app_description">The place to look for information about computers</string>
+    <string name="product_name">Product Name</string>
+    <string name="description">Description</string>
+    <string name="specification">Specification</string>
+    <string name="processor">Processor</string>
+    <string name="processor_content">Processor Name</string>
+    <string name="memory">Memory</string>
+    <string name="memory_content">Memory Size and Type</string>
+    <string name="video_graphic">Video Graphic</string>
+    <string name="video_graphic_content">Video Graphic Name</string>
+    <string name="storage">Storage</string>
+    <string name="storage_content">Storage Size and Type</string>
+    <string name="share">Share This Product</string>
+    <string name="about">About</string>
+    <string name="dev_by">Developed By</string>
+    <string name="profile_name">Nasyith Musyafa</string>
+    <string name="profile_email">nasyithmusyafa@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>HP 1000–1b09AU</item>
+        <item>HP 255 G8</item>
+        <item>Asus Vivobook Go 14 Flip (TP1400)</item>
+        <item>ASUS TUF Gaming F15 (2022)</item>
+        <item>Acer Aspire 3 A315–58–30BX</item>
+        <item>Acer Nitro 5 AN515–45-R6RF</item>
+        <item>Lenovo IdeaPad Slim 5</item>
+        <item>Asus ROG Strix G16 (2023) G614</item>
+        <item>Lenovo Legion 5i Pro</item>
+        <item>MSI Modern 14 C12M</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>HP has released its newest laptop series, namely the HP 1000–1B09AU, which uses an AMD Dual Core A4–3330MX processor. The RAM provided on this laptop is 2 GB which uses DDR3 technology which can help the performance of the processor in carrying out multi-tasking work well.</item>
+        <item>The HP 255 Laptop keeps up with mobile workstyles with a thin and light design. The beautiful display with its narrow border design and big screen-to-body-ratio provides ample space for work or streaming content.</item>
+        <item>The Asus Vivobook Go 14 Flip TP1400KA VIPS651 hybrid laptop is supported by a touch screen with full HD resolution which supports the use of a stylus pen to accommodate user creativity. The performance of the Asus Vivobook Go 14 Flip TP1400KA VIPS651 laptop is also competent with the support of an Intel Pentium Silver N6000 processor coupled with 8GB RAM to ensure smooth performance for everyday work. Its performance is increasingly responsive with storage in the form of an SSD with a capacity of 512GB.</item>
+        <item>ASUS released its newest product in Indonesia with the title ASUS TUF Gaming F15 2022. This vendor is famous for its laptop capabilities that can support users\' gaming experience. The performance of the ASUS TUF Gaming F15 2022 is even more powerful because it uses a 12th Generation Intel Core processor.</item>
+        <item>Choose a ready-to-go Aspire 3 equipped with the latest 11th Gen Intel® Core™ Processors and designed specifically for practical multitasking and productivity. With ease of use in mind, this family-friendly laptop is ready for action at any time.</item>
+        <item>Go full throttle with an AMD Ryzen™ 5000 Series Mobile Processor, GeForce RTX™ 30 Series GPUand your choice of either QHD at 165Hz or FHD at 360Hz. Speed’s the game and the Nitro 5 came to play!</item>
+        <item>The IdeaPad Slim 5 (14) AMD has everything you need for a great combination of performance, connectivity and entertainment on the go with a powerful and fast AMD®Ryzen™ processor. Enjoy sharp visuals on the 14" FHD screen accompanied by rich sound from Dolby Audio speakers located facing the user. And with a metal top panel and a new color coating that provides a smooth touch to the surface, this laptop feels comfortable.</item>
+        <item>The Asus ROG Strix G16 (2023) is a deceptive machine. With an impressively small, thin chassis and a slimline power brick, it suggests humble performance – but that’s not the case at all. Rather, it comes packed in with an Intel Core i7–13980HX processor, an NVIDIA GeForce RTX 4060 Laptop GPU and 16GB DDR5–4800 RAM that lends it breezy performance with minimal fuss.</item>
+        <item>Decimate the competition with up to 12th Gen Intel® Core™ processors, the latest NVIDIA® GeForce RTX™ graphics, and the awesome Legion AI Engine, auto-detecting and auto-optimizing your in-game performance. Vanquish all your foes in stunning, precise WQHD+. And with a sleek Storm Gray or Glacier White chassis, the only other decision you’ll need to make is your trophy’s color.</item>
+        <item>Define your own style and enjoy every beautiful moment you create in life. The Modern 14 is the perfect blend of elegance and performance. Powered by the latest Intel® Core I5 Gen 12 processor with Intel Iris Xe discrete graphics, you can work and play smoothly without any fuss. This is the perfect laptop for your daily creation and entertainment.</item>
+    </string-array>
+
+    <string-array name="data_processor">
+        <item>AMD A4–3330MX Dual Core 2.3GHz</item>
+        <item>AMD Ryzen 5 5500U (up to 4.0 GHz, 8 MB L3 cache, 6 cores, 12 threads)</item>
+        <item>Intel® Pentium® Silver N6000 Processor 1.1 GHz (4M Cache, up to 3.3 GHz, 4 cores)</item>
+        <item>Intel® Core™ i7–12700H</item>
+        <item>Intel® Core™ i3 i3–1115G4 3GHz Dual-core</item>
+        <item>AMD Ryzen 7 5800H 3.20GHz Octa-core</item>
+        <item>AMD Ryzen™ 5 4500U</item>
+        <item>Intel® Core™ i9–13980HX Processor 2.2 GHz (36M Cache, up to 5.6 GHz, 24 cores: 8 P-cores and 16 E-cores)</item>
+        <item>Intel® Core™ i9–12900H</item>
+        <item>Intel® Core i5–1235U Processor 1,3 GHz</item>
+    </string-array>
+
+    <string-array name="data_memory">
+        <item>2 GB DDR3L RAM</item>
+        <item>8 GB DDR4–3200 MHz RAM</item>
+        <item>8GB DDR4 on board</item>
+        <item>8GB DDR5–4800, SO-DIMM x 2 slot, Max Capacity: 32GB</item>
+        <item>4GB DDR4</item>
+        <item>16GB DDR4</item>
+        <item>8GB Soldered DDR4–3200</item>
+        <item>16GB DDR5–4800 SO-DIMM x 2 Max Capacity: 32GB</item>
+        <item>32GB 4800Mhz DDR5</item>
+        <item>8GB DDR4–3200MHz</item>
+    </string-array>
+
+    <string-array name="data_video_graphic">
+        <item>AMD Radeon HD6480G 512MB</item>
+        <item>AMD Radeon Vega 7</item>
+        <item>Intel® UHD Graphics</item>
+        <item>NVIDIA® GeForce RTX™ 3070 8GB GDDR6</item>
+        <item>Intel® UHD Graphics</item>
+        <item>NVIDIA® GeForce RTX™ 3060 6GB GDDR6</item>
+        <item>AMD Radeon Vega 6</item>
+        <item>NVIDIA® GeForce RTX™ 4070 8GB GDDR6</item>
+        <item>NVIDIA® GeForce RTX™ 3070 Ti 8GB GDDR6</item>
+        <item>Intel Iris Xe Graphics</item>
+    </string-array>
+
+    <string-array name="data_storage">
+        <item>500GB HDD</item>
+        <item>256GB SSD PCIe NVMe</item>
+        <item>512GB M.2 NVMe™ PCIe® 3.0 SSD</item>
+        <item>1TB M.2 NVMe™ PCIe® 3.0 SSD</item>
+        <item>256GB SSD</item>
+        <item>512GB SSD</item>
+        <item>512GB SSD M.2 2242 PCIe NVMe</item>
+        <item>2TB PCIe® 4.0 NVMe™ M.2 SSD</item>
+        <item>1TB PCIe Gen4 SSD</item>
+        <item>512GB PCIe Gen 3.0 x4 M.2 SSD NVMe</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://pctren.com/wp-content/uploads/2015/01/HP-1000-1b09AU.jpg</item>
+        <item>https://els.id/wp-content/uploads/2023/09/64b126c9-9d54-4ffa-833f-8f1dc929e2e4.jpg</item>
+        <item>https://dlcdnwebimgs.asus.com/gain/144fad23-7755-4ffd-ab4f-eb98c105a394/</item>
+        <item>https://dlcdnwebimgs.asus.com/gain/f93bdd99-47d7-4f97-8800-5a83d0bd46a6/w800</item>
+        <item>https://images.acer.com/is/image/acer/acer-aspire-3-a314-36p-non-fingerprint-non-backlit-wallpaper-win11-silver-01?$Visual-Filter-L$</item>
+        <item>https://images.acer.com/is/image/acer/Nitro5_AN515-45_Backliton_Black_01a-1?$Visual-Filter-L$</item>
+        <item>https://assets.bmdstatic.com/web/image?model=product.product&amp;field=image_1024&amp;id=56195&amp;unique=c116baa</item>
+        <item>https://dlcdnwebimgs.asus.com/gain/76EA80B5-09E6-4FB4-A2A0-26042A240099/w1000/h732</item>
+        <item>https://www.lenovo.com/medias/?context=bWFzdGVyfHJvb3R8MzA3NTYwfGltYWdlL3BuZ3xoNGEvaDVmLzEzMTc4NjM5NDE3Mzc0LnBuZ3xkMGJhM2ZjMTk4YTg0NzE5ZDgxMjNhZGNiYzFmZTU1NTBmMmVjODcyZmMyOTllN2YyNGI3MTE5MWQ0MjFmN2Zh</item>
+        <item>https://assets.bmdstatic.com/web/image?model=product.product&amp;field=image_1024&amp;id=67513&amp;unique=8658291</item>
+    </string-array>
+</resources>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/img_product_photo"
+            android:layout_marginTop="16dp"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:scaleType="fitXY" />
+
+        <TextView
+            android:id="@+id/tv_product_name"
+            style="@style/TextContent.HeadlineMedium.Bold"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="8dp"
+            android:layout_gravity="center"
+            android:text="@string/product_name" />
+
+        <TextView
+            android:id="@+id/tv_description"
+            style="@style/TextContent.BodyMedium.Gray.MarginLeftRight"
+            android:layout_marginBottom="16dp"
+            android:lineSpacingMultiplier="1"
+            android:justificationMode="inter_word"
+            android:text="@string/description" />
+
+        <TextView
+            style="@style/TextContent.TitleMedium.Bold.MarginLeftRight"
+            android:layout_marginBottom="8dp"
+            android:text="@string/specification" />
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="16dp">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+
+                <TextView
+                    style="@style/TextContent.BodyMedium.Bold"
+                    android:layout_marginEnd="16dp"
+                    android:text="@string/processor" />
+
+                <TextView
+                    android:id="@+id/tv_processor"
+                    style="@style/TextContent.BodyMedium.Gray"
+                    android:layout_weight="1"
+                    android:text="@string/processor_content" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+
+                <TextView
+                    style="@style/TextContent.BodyMedium.Bold"
+                    android:layout_marginEnd="16dp"
+                    android:text="@string/memory" />
+
+                <TextView
+                    android:id="@+id/tv_memory"
+                    style="@style/TextContent.BodyMedium.Gray"
+                    android:layout_weight="1"
+                    android:text="@string/memory_content" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+
+                <TextView
+                    style="@style/TextContent.BodyMedium.Bold"
+                    android:layout_marginEnd="16dp"
+                    android:text="@string/video_graphic" />
+
+                <TextView
+                    android:id="@+id/tv_video_graphic"
+                    style="@style/TextContent.BodyMedium.Gray"
+                    android:layout_weight="1"
+                    android:text="@string/video_graphic_content" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp">
+
+                <TextView
+                    style="@style/TextContent.BodyMedium.Bold"
+                    android:layout_marginEnd="16dp"
+                    android:text="@string/storage" />
+
+                <TextView
+                    android:id="@+id/tv_storage"
+                    style="@style/TextContent.BodyMedium.Gray"
+                    android:layout_weight="1"
+                    android:text="@string/storage_content" />
+            </TableRow>
+        </TableLayout>
+
+        <Button
+            android:id="@+id/action_share"
+            style="@style/ButtonGeneral.PrimaryVariant"
+            android:text="@string/share" />
+    </LinearLayout>
+</ScrollView>
